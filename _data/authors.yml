@@ -12,13 +12,13 @@ epidrome:
   email: "hi@epidro.me"
   twitter: "@ep1dr0me"
 # copy-paste and then edit the example bellow
-exampleyourauthorname:
-  name: "your real name"
-  bio: "very short description"
-  uri: "your home page"
-  avatar: "your profile image, e.g., gravatar"
-  email: "your email"
-  twitter: "@your twitter account"
+antonis-adraktas:
+  name: "Antonis Adraktas"
+  bio: "RF Enginneer"
+  uri: "https://www.linkedin.com/in/antonios-adraktas/"
+  avatar: "gravatar"
+  email: "antonis.adraktas@gmail.com"
+  
 # you can add more authors bellow this comment
 #
 nickkouk:
