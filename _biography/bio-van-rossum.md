@@ -21,6 +21,10 @@ O Guido van Rossum γεννήθηκε στην Ολλανδία στις 31 Ια
 - Το 2019 έλαβε το βραβείο Dijkstra απ' το Centrum Wiskunde & Informatica
 
 Μέσα απ την δημιουργία και καίρια συμβολή στην ανάπτυξη της Python, η συμβολή του στην επιστήμη υπολογιστών θεωρείται κομβική.  
+
+Πηγές: https://computerhistory.org/profile/guido-van-rossum/?alias=bio&person=guido-van-rossum  
+https://www.tiobe.com/tiobe-index/
+https://www.cwi.nl/news/2019/david-chaum-and-guido-van-rossum-awarded-dijkstra-fellowship
    
   
   
