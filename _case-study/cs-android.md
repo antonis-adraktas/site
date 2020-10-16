@@ -12,7 +12,7 @@
   
 Το android βασίστηκε στο Linux Kernel και η αρχιτεκτονική του μπορεί να χωριστεί σε 5 κύρια κομμάτια:
 εφραμογές, σκελετός εφαρμογών, βιβλιοθήκες, runtime και Linux Kernel
-![](/images/android_architecture.png)  
+![](https://github.com/antonis-adraktas/images/android_architecture.png)  
   
 Οι εφραμογές βρίσκονται στο ανώτερο επίπεδο και είναι αυτές που βλέπει κα ιχρησιμοποιεί ο χρήστης στην καθημερινότητα του.
 ![](/images/android_appearance.jpg)  
