@@ -8,8 +8,7 @@ categories:
   - Μορφές
 tags:
   - Guido van Rossum
-  - Python
-  
+  - Python  
 ---
 
 {% include_relative bio-rossum.md %}
