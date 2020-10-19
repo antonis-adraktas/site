@@ -1,11 +1,4 @@
-[submodule "images"]
-	path = images
-    url = https://github.com/antonis-adraktas/images
-    branch = master
-[submodule "_gallery"]
-	path = _gallery
-	url = https://github.com/antonis-adraktas/_gallery
-	branch = master
+
 [submodule "_includes/extras"]
 	path = _includes/extras
 	url = https://github.com/pibook/extras.git
@@ -21,4 +14,12 @@
 [submodule "_bibliography"]
 	path = _bibliography
 	url = https://github.com/pibook/bibliography.git
+	branch = master
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/antonis-adraktas/_gallery
+	branch = master
+[submodule "images"]
+	path = images
+	url = https://github.com/antonis-adraktas/images
 	branch = master
