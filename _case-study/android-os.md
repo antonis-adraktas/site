@@ -14,7 +14,7 @@ tags:
 gallery:
   - image_url: /images/android_architecture.jpg
     caption: "Η αρχιτεκτονική του λειτουργικού συστήματος android."
-  - image_url: /images/andoid_appearance.jpg
+  - image_url: /images/android_appearance.jpg
     caption: "Η εμφάνιση του λειτουργικού συστήματος android."
   - image_url: /images/app_android_code.png
     caption: "Κώδικας ανάπτυξης εφαρμογής σε andoid."
