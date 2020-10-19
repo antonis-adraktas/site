@@ -26,7 +26,7 @@
 Υπάρχει μεγάλη γκάμα εφαρμογών διαθέσιμες για πολλές διαφορετικές χρήσεις. Ιδιαίτερα στο περιβάλλον του διάχυτου υπολογισμού και  
 του έξυπνου σπιτιού αναπτύσονται συνεχώς εφαρμογές που εκμεταλλεύονται την πληθώρα δεδομένων που συλλέγουν οι έξυπνες συσκευές. 
 
-Πηγές: https://www.theverge.com/2019/5/7/18528297/google-io-2019-android-devices-play-store-total-number-statistic-keynote  
+Πηγές: [Android devices](https://www.theverge.com/2019/5/7/18528297/google-io-2019-android-devices-play-store-total-number-statistic-keynote)  
 Krajci, Iggy, and Darren Cummings. "History and Evolution of the Android OS." Android on x86. Apress, Berkeley, CA, 2013. 1-8.  
-http://www.apache.org/licenses/LICENSE-2.0  
+[Apache license](http://www.apache.org/licenses/LICENSE-2.0)  
 Alaa, Mussab, et al. "A review of smart home applications based on Internet of Things." Journal of Network and Computer Applications 97 (2017): 48-65.  
