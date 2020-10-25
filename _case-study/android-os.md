@@ -12,7 +12,7 @@ tags:
   - android
   - success
 gallery:
-  - image_url: /images/android_architecture.png
+  - image_url: /images/android_architecture.jpg
     caption: "Η αρχιτεκτονική του λειτουργικού συστήματος android."
   - image_url: /images/android_appearance.jpg
     caption: "Η εμφάνιση του λειτουργικού συστήματος android."
